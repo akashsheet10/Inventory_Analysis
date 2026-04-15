@@ -14,21 +14,17 @@ An end-to-end **Excel-based Sales Analytics Dashboard** built on real transactio
 ---
 
 ## 📁 Project Structure
+## 📁 Project Structure
 
-```
-Coffee-Shop-Sales/
-│
-├── Copy_of_Coffee_Shop_Sales.xlsx   # Main Excel workbook
-│   ├── Transactions                 # Raw transactional data (149,116 rows)
-│   ├── KPI by AKASH                 # Pivot tables & KPI calculations
-│   ├── Dashboard 2.0                # Main interactive dashboard
-│   └── Dashboard 2.0 (2)           # Alternate dashboard view
-│
-├── dashboard.png                    # Dashboard screenshot
-└── README.md                        # Project documentation
-```
-
----
+| File / Folder | Description |
+|--------------|------------|
+| Copy_of_Coffee_Shop_Sales.xlsx | Main Excel workbook |
+| ├── Transactions | Raw data |
+| ├── KPI by AKASH | Pivot tables & KPIs |
+| ├── Dashboard 2.0 | Main dashboard |
+| ├── Dashboard 2.0 (2) | Alternate dashboard |
+| dashboard.png | Dashboard preview |
+| README.md | Project documentation |
 
 ## 📌 Dataset Overview
 
