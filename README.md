@@ -19,10 +19,10 @@ An end-to-end **Excel-based Sales Analytics Dashboard** built on real transactio
 | File / Folder | Description |
 |--------------|------------|
 | Copy_of_Coffee_Shop_Sales.xlsx | Main Excel workbook |
-| ├── Transactions | Raw data |
-| ├── KPI by AKASH | Pivot tables & KPIs |
-| ├── Dashboard 2.0 | Main dashboard |
-| ├── Dashboard 2.0 (2) | Alternate dashboard |
+| Transactions | Raw data |
+| KPI by AKASH | Pivot tables & KPIs |
+| Dashboard 2.0 | Main dashboard |
+| Dashboard 2.0 (2) | Alternate dashboard |
 | dashboard.png | Dashboard preview |
 | README.md | Project documentation |
 
@@ -165,13 +165,7 @@ Peak hours for customer footfall and revenue:
 
 **Akash**
 - 📊 Data Analyst | Excel Dashboard Developer
-- 🔗 [GitHub Profile](https://github.com/your-username)
-
----
-
-## 📄 License
-
-This project is open-source and available under the [MIT License](LICENSE).
+- 🔗 [GitHub Profile](https://github.com/akashsheet10)
 
 ---
 
