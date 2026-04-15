@@ -7,7 +7,7 @@ An end-to-end **Excel-based Sales Analytics Dashboard** built on real transactio
 
 ## 📊 Dashboard Preview
 
-![Coffee Shop Sales Dashboard]https://github.com/akashsheet10/Inventory_Analysis/blob/main/Screenshot%202026-04-10%20220520.png?raw=true
+![Coffee Shop Sales Dashboard](https://github.com/akashsheet10/Inventory_Analysis/blob/main/Screenshot%202026-04-10%20220520.png?raw=true)
 
 > *Interactive Excel dashboard showing monthly revenue trends, hourly footfall, product category breakdown, and store-wise performance.*
 
